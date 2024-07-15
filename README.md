@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Brennan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Oceanside, California</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Fairfax, Oklahoma</b>. </p>
+<p>Welcome to my page! </br> I'm Brennan, Fullstack developer from <img src="![image](https://github.com/user-attachments/assets/66671ea6-bf82-4172-b432-97a1295ca92a)
+" width="13"/> <b>Oceanside, California</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Fairfax, Oklahoma</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
