@@ -42,4 +42,4 @@
 
 ------------
 <p align="center">This <i>README</i> file is not automatically generated however will fix soon <b>every blank hours</b>!</br>Last refresh: Day, 00 Month, 00:00 CST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/bwater47/bwater47/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/bwater47/bwater47?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/bwater47/bwater47?style=flat-square&labelColor=343b41"/></p>
+<p align="center"> <img alt="Stars" src="https://img.shields.io/github/stars/bwater47/bwater47?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/bwater47/bwater47?style=flat-square&labelColor=343b41"/></p>
