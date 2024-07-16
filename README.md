@@ -15,7 +15,7 @@ I'm Brennan, Fullstack developer from ![US Flag](https://raw.githubusercontent.c
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Regex](https://img.shields.io/badge/-Regex-4285F4?style=flat-square&logo=regex&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=c++&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify&logoColor=white)
@@ -36,6 +36,7 @@ I'm Brennan, Fullstack developer from ![US Flag](https://raw.githubusercontent.c
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/-Handlebars-FF9800?style=flat-square&logo=handlebars&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -50,6 +51,7 @@ I'm Brennan, Fullstack developer from ![US Flag](https://raw.githubusercontent.c
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-333333?style=flat-square&logo=render&logoColor=white)
 ![IndexedDB](https://img.shields.io/badge/-IndexedDB-4D4D4D?style=flat-square&logo=indexeddb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=306998)
 
 ### Open source projects
 
