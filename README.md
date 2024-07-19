@@ -18,6 +18,7 @@ I'm Brennan, Fullstack developer from ![US Flag](https://raw.githubusercontent.c
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-8A2BE2?style=flat-square&logo=eslint&logoColor=white)
 ![JASS](https://img.shields.io/badge/-JASS-8E44AD?style=flat-square&logo=sass&logoColor=white)
@@ -84,10 +85,3 @@ I'm Brennan, Fullstack developer from ![US Flag](https://raw.githubusercontent.c
 </p>
 
 ---
-
-<p align="center">This <i>README</i> file is not automatically generated however will fix soon <b>every blank hours</b>!</br>Last refresh: Day, 00 Month, 00:00 CST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-
-<p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/bwater47/bwater47?style=flat-square&labelColor=343b41"/>
-  <img alt="Forks" src="https://img.shields.io/github/forks/bwater47/bwater47?style=flat-square&labelColor=343b41"/>
-</p>
