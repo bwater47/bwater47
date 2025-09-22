@@ -1,7 +1,7 @@
 # ![blob-sunglasses](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430) Hey! Nice to see you.
 
 Welcome to my page!  
-I'm Brennan, Fullstack developer from ![US Flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) **Oceanside, California**, currently living in ![US Flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) **Salt Lake City, Utah**.
+I'm Brennan, Fullstack developer from ![US Flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) **Oceanside, California**, currently living in ![US Flag](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) **Tonopah, Arizona**.
 
 ### Things I code with
 
